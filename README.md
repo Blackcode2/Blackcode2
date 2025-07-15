@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Blackcod2%20GitHub&fontSize=90)
 
 ## :round_pushpin: About Me
-:iphone: I am a Mobile Application Developer
+
+- :iphone: I am a Mobile Application Developer
+- :computer: I have two apps published on Play Store & App Store
+-  🔭 I’m currently working on refactoring iOS app to publish
+- :mortar_board: I am currently a university student
+
+
+
 
 
 ![Blackcode2's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode2&show_icons=true&theme=radical)
