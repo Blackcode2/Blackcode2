@@ -18,7 +18,7 @@
 #02569B #2396F3 
 
 ### ETC
-<img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-#DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
 
