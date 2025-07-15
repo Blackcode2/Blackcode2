@@ -12,14 +12,15 @@
 
 ### Language
 
-#0175C2 #F05138 #3776AB #00599C
+#0175C2 #F05138 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> #00599C
 
 ### Framework
 #02569B #2396F3 
 
 ### ETC
-#4A154B #DD2C00
+<img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-#DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
 
 ![Blackcode2's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode2&show_icons=true&theme=radical)
 
