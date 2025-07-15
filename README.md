@@ -7,6 +7,7 @@
 -  🔭 I’m currently working on refactoring iOS app to publish
 - :mortar_board: I am currently a university student
 
+<br/>
 
 ## :computer: Stack
 
@@ -20,7 +21,9 @@
 ### ETC
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/공식_명칭-공식_색상_코드?style=flat-square&logo=공식_명칭&logoColor=white"/>
+<br/>
+
+## Git Stats
 
 ![Blackcode2's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode2&show_icons=true&theme=radical)
 
