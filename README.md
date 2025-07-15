@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Blackcod2%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Blackcod2%20Github&fontSize=90)
 
 ## :round_pushpin: About Me
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-## Git Stats
+## Github Stats
 
 ![Blackcode2's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackcode2&show_icons=true&theme=radical)
 
