@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Blackcod2%20GitHub&fontSize=90)
 
 ## :round_pushpin: About Me
----
 :iphone: I am a Mobile Application Developer
 
 
