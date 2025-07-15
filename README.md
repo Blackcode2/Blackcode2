@@ -7,6 +7,7 @@
 -  🔭 I’m currently working on refactoring iOS app to publish
 - :mortar_board: I am currently a university student
 - :trophy: Awarded the Grand Prize at the Hackathon hosted by 'PARD', a Gyeongbuk IT Federation Club
+- My portfolio & developer blog: https://blackcode2.github.io/developer-blog/
 
 <br/>
 
