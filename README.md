@@ -18,7 +18,11 @@
 
 <img src="https://github.com/user-attachments/assets/a4ee722e-0029-44b1-b398-8ebe32218d25" width="400"/>  <img src="https://github.com/user-attachments/assets/0ec6b163-9647-497d-9482-c5f2d944414c" width="400"/>
 
+<br/>
+
 ### :iphone: Catchball - Personal Baseball Game Stats Tracker App
+
+Published on Play Store & App Store
 
 <img width="11364" height="3575" alt="Image" src="https://github.com/user-attachments/assets/f8b22131-c947-4adb-895f-239e73d8041f" />
 
