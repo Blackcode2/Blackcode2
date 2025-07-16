@@ -2,12 +2,22 @@
 
 ## :round_pushpin: About Me
 
-- :iphone: I am a Mobile Application Developer
-- :tada: I have two apps published on Play Store & App Store
--  🔭 I’m currently working on refactoring iOS app to publish
-- :mortar_board: I am currently a university student
-- :trophy: Awarded the Grand Prize at the Hackathon hosted by 'PARD', a Gyeongbuk IT Federation Club
+- :iphone: Mobile Application Developer
+- :tada: two apps published on Play Store & App Store
+-  🔭 currently working on refactoring iOS app to publish
+- :mortar_board: a university student
+
 - My portfolio & developer blog: https://blackcode2.github.io/developer-blog/
+
+<br/>
+
+## :confetti_ball: Product & History
+
+
+### :trophy: Grand Prize, PARD Hackathon – Gyeongsangbuk-do IT Collaboration Club
+
+![70EB6E8E-7FEA-4703-9363-BF2CE6F934C6_1_105_c](https://github.com/user-attachments/assets/e2d04939-9a3a-46ca-9744-884914297c8e)
+
 
 <br/>
 
