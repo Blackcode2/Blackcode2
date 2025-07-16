@@ -20,6 +20,7 @@
 
 ### :iphone: Catchball - Personal Baseball Game Stats Tracker App
 
+<img width="11364" height="3575" alt="Image" src="https://github.com/user-attachments/assets/f8b22131-c947-4adb-895f-239e73d8041f" />
 
 
 <br/>
