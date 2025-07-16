@@ -16,7 +16,7 @@
 
 ### :trophy: Grand Prize, PARD Hackathon – Gyeongsangbuk-do IT Collaboration Club
 
-<img src="https://github.com/user-attachments/assets/a4ee722e-0029-44b1-b398-8ebe32218d25" width="400"/>
+<img src="https://github.com/user-attachments/assets/a4ee722e-0029-44b1-b398-8ebe32218d25" width="400"/>  <img src="https://github.com/user-attachments/assets/a4ee722e-0029-44b1-b398-8ebe32218d25" width="400"/>
 
 
 <br/>
