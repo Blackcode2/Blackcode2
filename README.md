@@ -34,6 +34,8 @@ Published on App Store
 
 <img width="4735" height="2245" alt="Image" src="https://github.com/user-attachments/assets/7e760ca2-e0b8-4a70-9a97-024423954f4a" />
 
+<br/>
+
 ### 🏫 - Python teacher for COS Pro at Pohang Jecheol Technical High School
 
 <br/>
